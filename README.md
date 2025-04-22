@@ -6,7 +6,7 @@ This project uses a K-Nearest Neighbors (KNN) classifier to predict a football p
 ## Overview
 
 - **Goal:** Predict the playing position (e.g., ST, CM, CB) of players using selected performance attributes.
-- **Dataset:** EA FC player statistics (from Kaggle).
+- **Dataset:** EA FC player statistics (from Kaggle: https://www.kaggle.com/datasets/stefanoleone992/ea-sports-fc-24-complete-player-dataset?select=male_players.csv).
 - **Model:** KNN classifier trained on normalized feature vectors.
 - **Notebook:** Built and run in Google Colab.
 
